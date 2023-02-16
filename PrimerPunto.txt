@@ -17,7 +17,7 @@ Fases de maven
 
 Ciclo de vida de la construcción
 
-Se encarga de compilar los ficheros fuentes . java
+Es el proceso de construir y distribuir un proyecto, de manera clara. 
 
 Para qué sirven los plugins
 
@@ -33,3 +33,4 @@ https://geekflare.com/es/apache-maven-for-beginners/
 https://panamahitek.com/que-es-maven-y-para-que-se-utiliza/
 https://eusebiorubio.es/fases-de-maven-explicadas-en-un-grafico/
 https://rubensa.wordpress.com/2016/06/10/maven-lifecycle/
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference
