@@ -17,7 +17,7 @@ Fases de maven
 
 Ciclo de vida de la construcción
 
-
+Se encarga de compilar los ficheros fuentes . java
 
 Para qué sirven los plugins
 
@@ -25,3 +25,11 @@ Es una tarea especifica que contribuye a la contruccion de un proyecto.
 
 Qué es y para qué sirve el repositorio central de maven
 
+Es un repositorio que contiene cientos de librerías constantemente actualizadas por sus creadores, esto nos sirve en caso que el repositorio local no cuente con una libreria especifica que necesita, este repositorio central buscara la libreria que se necesita y una vez hecho esto la pondra en el archivo local para que pueda hacer uso de ella.
+
+Bibliografia 
+
+https://geekflare.com/es/apache-maven-for-beginners/
+https://panamahitek.com/que-es-maven-y-para-que-se-utiliza/
+https://eusebiorubio.es/fases-de-maven-explicadas-en-un-grafico/
+https://rubensa.wordpress.com/2016/06/10/maven-lifecycle/
